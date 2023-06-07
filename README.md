@@ -38,29 +38,26 @@ O aplicativo funciona como um mensageiro inovador que combina recursos de chat c
 9. Aguarde o aplicativo carregar e ser exibido no simulador ou dispositivo físico.
 
 <h2>Tecnologias utilizadas</h2>
-•	React Native
-•	Expo
-•	JavaScript
+• React Native
+• Expo
+• JavaScript
 • Mysql
+• Docker
+• Beekeeper Studio
 	
-<h2>Imagem utilizada</h2>
- 
-<img src="https://user-images.githubusercontent.com/130371011/232896406-38d7fa8f-e247-4cec-b68c-cf81cfc67077.png"
- width="200" height="200">
-
-
-
 <h2>Tela do Aplicativo</h2>
 <div align= "center">
-<img src="https://user-images.githubusercontent.com/130371011/232894612-7b9e5d69-e682-4527-97f4-ba0609226971.jpeg"
- width="250" height="500"> <img src="https://user-images.githubusercontent.com/130371011/232896347-e6e56537-b624-4756-abf6-f44eb3e8ef78.jpeg"
+<img src="https://github.com/renanvascz/Project-FMW/assets/101291080/8e9e3584-3d0a-4b86-835b-2e4e39c98dde"
  width="250" height="500">
-
+<img src="https://github.com/renanvascz/Project-FMW/assets/101291080/b8333845-b355-4c0d-a4bd-515f8b110e95"
+ width="250" height="500"> 
+<img src="https://github.com/renanvascz/Project-FMW/assets/101291080/05116e01-66c1-4a8b-a17c-4ab7d87f2cf5"
+ width="250" height="500">
+<img src="https://github.com/renanvascz/Project-FMW/assets/101291080/8e1283c5-b8e1-40a0-bf05-bf8ff5b49cd3"
+ width="250" height="500">
+<img src="https://github.com/renanvascz/Project-FMW/assets/101291080/05116e01-66c1-4a8b-a17c-4ab7d87f2cf5"
+ width="250" height="500">
  </div>
  
-
-
-
-
 <h2>Autor</h2>
 Este aplicativo foi desenvolvido por Renan Vasconcelos, Mateus Menezes e Vitor Gabriel com base em um projeto de avaliação no React Native.
