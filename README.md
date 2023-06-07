@@ -55,7 +55,7 @@ O aplicativo funciona como um mensageiro inovador que combina recursos de chat c
  width="250" height="500">
 <img src="https://github.com/renanvascz/Project-FMW/assets/101291080/8e1283c5-b8e1-40a0-bf05-bf8ff5b49cd3"
  width="250" height="500">
-<img src="https://github.com/renanvascz/Project-FMW/assets/101291080/05116e01-66c1-4a8b-a17c-4ab7d87f2cf5"
+<img src="https://github.com/renanvascz/Project-FMW/assets/101291080/54315f11-493a-44d3-8ac9-6adc2470c714"
  width="250" height="500">
  </div>
  
